@@ -1,10 +1,22 @@
 /*
-* procesadores.cpp
-*
-*  Created on: 21/4/2015
-*      Author: Miguel Ascanio Gómez
-*      Universidad Complutense de Madrid
+
+   Copyright (C) 2015-2016 Miguel Ascanio Gómez
+   
+   Generic_bb is free software: you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation, either version 3 of the License, or
+   (at your option) any later version.
+   
+   Generic_bb is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+   
+   You should have received a copy of the GNU General Public License
+   along with generic_bb.  If not, see <http://www.gnu.org/licenses/>.
+
 */
+
 
 // Compilación gcc (versiones recientes)
 // g++ -O3 -std=c++11 -o procesadores procesadores.cpp
